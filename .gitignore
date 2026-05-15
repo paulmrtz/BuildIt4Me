@@ -205,3 +205,4 @@ ehthumbs_vista.db
 .cache/ms-explore/
 # Vibe
 .vibe/*
+.claude/*
